@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "public": true,
+  "outputDirectory": "public",
+  "buildCommand": "python3 build_static.py",
+  "installCommand": "echo 'No dependencies to install'",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
