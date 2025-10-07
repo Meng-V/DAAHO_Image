@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": null,
+    "creator": null,
+    "contributors": [],
+    "correspondents": [
+      "Mr. Murray Sheehan"
+    ],
+    "publisher": null,
+    "date": "undated",
+    "place": "Glouchester, Massachusetts",
+    "language": "English",
+    "subjects": [
+      "University Admissions"
+    ],
+    "theme": [
+      "Education"
+    ],
+    "genre": [
+      "Correspondence"
+    ],
+    "description": "Letter from university president to Mr. Murray Sheehan regarding admission of a student from Thailand.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "Paper",
+    "type": "Text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": true,
+    "transcript": "September 8, 1941\n\nMr. Murray Sheehan\nMonsoonhurst 59\nGlouchester, Massachusetts\nDear Murray:\n\nReplying to your letter of September 6, I can assure you that we shall be pleased to admit Karoon Geangadmonying to Miami University as a freshman.\n\nWhile of course we know nothing of the University you mention in Bangkok or of its entrance examinations, the other boys from Thailand have made such a good record here that we do not hesitate.\n\nFreshman Week begins with a convocation next Sunday evening, September 14, but we can hold a room for him a little longer if necessary. We are trying to squeeze him into one of the freshman dormitories.\n\nCordially yours,\n\nPresident",
+    "text_reading": "September 8, 1941 Mr. Murray Sheehan Monsoonhurst 59 Glouchester, Massachusetts Dear Murray: Replying to your letter of September 6, I can assure you that we shall be pleased to admit Karoon Geangadmonying to Miami University as a freshman. While of course we know nothing of the University you mention in Bangkok or of its entrance examinations, the other boys from Thailand have made such a good record here that we do not hesitate. Freshman Week begins with a convocation next Sunday evening, September 14, but we can hold a room for him a little longer if necessary. We are trying to squeeze him into one of the freshman dormitories. Cordially yours, President",
+    "generated_title": "Letter to Mr. Murray Sheehan, September 8, 1941",
+    "field_confidence": {
+      "title": 0,
+      "creator": 0,
+      "contributors": 0,
+      "correspondents": 100,
+      "publisher": 0,
+      "date": 100,
+      "place": 100,
+      "language": 100,
+      "subjects": 90,
+      "theme": 90,
+      "genre": 95,
+      "description": 90,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 90,
+      "type": 90,
+      "rights": 50,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 0,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 100,
+      "transcript": 100,
+      "text_reading": 100,
+      "generated_title": 100
+    }
+  },
+  "context": {
+    "filename": "BC-0710_Recto.jpg",
+    "processing_confidence": 68.60986547085201,
+    "model": "gpt-4o"
+  }
+}

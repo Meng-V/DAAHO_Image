@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "title": "College Aid Letter #4",
+    "creator": "Federal Security Agency, National Youth Administration for Ohio",
+    "contributors": [
+      "S. Burns Weston",
+      "Harry E. Rabe"
+    ],
+    "correspondents": [
+      "Presidents of Ohio Colleges and Universities"
+    ],
+    "publisher": null,
+    "date": "undated",
+    "place": "Columbus, Ohio",
+    "language": "English",
+    "subjects": [
+      "College Enrollment",
+      "Educational Administration",
+      "Federal Aid Programs"
+    ],
+    "theme": [
+      "Education",
+      "Student Aid"
+    ],
+    "genre": [
+      "Administrative Letter"
+    ],
+    "description": "Letter requesting information for the NYA College and Graduate Aid Program.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "Paper",
+    "type": "Text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": null,
+    "transcript": "Federal Security Agency\n\nNATIONAL YOUTH ADMINISTRATION FOR OHIO\n\nHoster Bldg-\nColumbus, Ohio\n\nNovember 8, 1939\n\nCOLLEGE AID LETTER #4\n\nTO; Presidents of Ohio Colleges and Universities\n\nThe Washington office of the National Youth Administration\n\nhas requested a report on institution participation in the\n\nNYA College and Graduate Aid Program, including the following information:\n\n1. The institution's total enrollment as of November 1, 1939.\n2. The number of Negro students enrolled.\n3. The total number of NYA applications received.\n4. The number of applications which the institution has approved or is planning to approve for NYA Aid.\n5. Institutions which have approved Negro applicants are requested to indicate the type of work to which they have been assigned.\n\nWill you, therefore, kindly furnish us with this information, and as soon as possible, on the enclosed form? We shall appreciate receiving your report before November 17, 1939.\n\nSincerely yours,\n\nS. Burns Weston\nState Administrator\n\nBy: [HANDWRITTEN: Harry E. Rabe]\nHarry E. Rabe, Assistant Director Work Projects Division",
+    "text_reading": "Federal Security Agency NATIONAL YOUTH ADMINISTRATION FOR OHIO Hoster Bldg- Columbus, Ohio November 8, 1939 COLLEGE AID LETTER #4 TO; Presidents of Ohio Colleges and Universities The Washington office of the National Youth Administration has requested a report on institution participation in the NYA College and Graduate Aid Program, including the following information: 1. The institution's total enrollment as of November 1, 1939. 2. The number of Negro students enrolled. 3. The total number of NYA applications received. 4. The number of applications which the institution has approved or is planning to approve for NYA Aid. 5. Institutions which have approved Negro applicants are requested to indicate the type of work to which they have been assigned. Will you, therefore, kindly furnish us with this information, and as soon as possible, on the enclosed form? We shall appreciate receiving your report before November 17, 1939. Sincerely yours, S. Burns Weston State Administrator By: Harry E. Rabe Harry E. Rabe, Assistant Director Work Projects Division",
+    "generated_title": "Letter from Federal Security Agency to Ohio Colleges, November 8, 1939",
+    "field_confidence": {
+      "title": 100,
+      "creator": 100,
+      "contributors": 100,
+      "correspondents": 100,
+      "publisher": 0,
+      "date": 100,
+      "place": 100,
+      "language": 100,
+      "subjects": 100,
+      "theme": 100,
+      "genre": 100,
+      "description": 100,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 100,
+      "type": 100,
+      "rights": 0,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 0,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 0,
+      "transcript": 100,
+      "text_reading": 100,
+      "generated_title": 100
+    }
+  },
+  "context": {
+    "filename": "BC-0708_Recto.jpg",
+    "processing_confidence": 80.1094890510949,
+    "model": "gpt-4o"
+  }
+}

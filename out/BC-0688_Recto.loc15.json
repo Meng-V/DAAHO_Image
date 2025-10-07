@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "title": "Letter from Murray Sheehan to Miss Marshall, October 27, 1938",
+    "creator": "Murray Sheehan",
+    "contributors": [],
+    "correspondents": [
+      "Miss Marshall"
+    ],
+    "publisher": null,
+    "date": "undated",
+    "place": "Washington, D.C.",
+    "language": "English",
+    "subjects": [
+      "Higher Education",
+      "Diplomatic Relations",
+      "Graduate Records"
+    ],
+    "theme": [
+      "University Administration"
+    ],
+    "genre": [
+      "Letter"
+    ],
+    "description": "Letter from Murray Sheehan regarding Mr. Prasobsukh Sukhsvasti's graduate records.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "Typed letter with handwritten notes",
+    "type": "Text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": "BC-0688_Recto.jpg",
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": true,
+    "transcript": "[HANDWRITTEN: 1) RP. 2) The M/S - Pls note & return]\n[HANDWRITTEN]\n\n2300 KALORAMA ROAD.\nWASHINGTON,D.C.\n\nSTUDENTS’ DEPARTMENT\nMURRAY SHEEHAN, SUPERINTENDENT\n\nSIAMESE LEGATION\n\nOctober 27, 1958\n\nSecretary to the President\nMiami University\nOxford, Ohio\n\nMy dear Miss Marshall:\n\nMiss Aurelia Rosser has written to say that you would like to have Mr. Prasobsukh Sukhsvasti's present address and occupation for the 1938 graduate files.\n\nMr. Sukhsvasti should be listed as M. C. Prasobsukh Sukhsvasti, 10 Pra Aditya Road, Bangkok, Siam. I should like again, as on previous occasions, to request that the title of \"Prince\" be not granted to him by Miami University, despite Mr. Sukhsvasti's own apparent wide publicity on that score. His position in Siam may be, as before, a high-school teahher, or he may now be granted a position in one of the Government offices.\n\nUnfortunately, Miss Rosser named you only as \"Miss Marshall,\" so I am unable to address you more fully.\n\nYours very truly,\n\n[HANDWRITTEN: Murray Sheehan]\n\nSuperintendent",
+    "text_reading": "1) RP. 2) The M/S - Pls note & return.\n2300 KALORAMA ROAD. WASHINGTON,D.C. STUDENTS’ DEPARTMENT MURRAY SHEEHAN, SUPERINTENDENT. SIAMESE LEGATION. October 27, 1958 Secretary to the President Miami University Oxford, Ohio. My dear Miss Marshall: Miss Aurelia Rosser has written to say that you would like to have Mr. Prasobsukh Sukhsvasti's present address and occupation for the 1938 graduate files. Mr. Sukhsvasti should be listed as M. C. Prasobsukh Sukhsvasti, 10 Pra Aditya Road, Bangkok, Siam. I should like again, as on previous occasions, to request that the title of \"Prince\" be not granted to him by Miami University, despite Mr. Suchsvasti's own apparent wide publicity on that score. His position in Siam may be, as before, a high-school teahher, or he may now be granted a position on one of the Government offices. Unfortunately, Miss Rosser named you only as \"Miss Marshall,\" so I am unable to address you more fully. Yours very truly, Murray Sheehan, Superintendent.",
+    "generated_title": "Letter from Murray Sheehan to Miss Marshall, October 27, 1938",
+    "field_confidence": {
+      "title": 95,
+      "creator": 100,
+      "contributors": 0,
+      "correspondents": 90,
+      "publisher": 0,
+      "date": 0,
+      "place": 85,
+      "language": 100,
+      "subjects": 80,
+      "theme": 85,
+      "genre": 95,
+      "description": 90,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 85,
+      "type": 95,
+      "rights": 50,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 95,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 100,
+      "transcript": 85,
+      "text_reading": 90,
+      "generated_title": 95
+    }
+  },
+  "context": {
+    "filename": "BC-0688_Recto.jpg",
+    "processing_confidence": 78.6624203821656,
+    "model": "gpt-4o"
+  }
+}

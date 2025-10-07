@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "title": "Letter from President to Murray Sheehan, May 26, 1942",
+    "creator": null,
+    "contributors": [
+      "President"
+    ],
+    "correspondents": [
+      "Murray Sheehan"
+    ],
+    "publisher": null,
+    "date": "undated",
+    "place": "Washington, D.C.",
+    "language": "en",
+    "subjects": [
+      "Commencement"
+    ],
+    "theme": [
+      "Education"
+    ],
+    "genre": [
+      "Letter"
+    ],
+    "description": "Letter discussing Commencement attendance and reservations for Murray Sheehan.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": "image/jpeg",
+    "medium": "paper",
+    "type": "document",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": "BC-0714_Recto.jpg",
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": null,
+    "transcript": "May 26, 1942\n\nMr. Murray Sheehan\nRoyal Thai Legation\n2300 Kalorama Road\nWashington, D. C.\n\nDear Murray:\n\nI am delighted to know that you are coming on for Commencement. We shall all be glad to see you and I think you will find yourself very comfortable in David Swing Hall where we are making a reservation for you.\n\nIt is too bad that we cannot have at least one boy from Theiland in the graduating class while you are here, particularly since we were unable to secure the Minister as our speaker.\n\nCordially yours,\n\nPresident",
+    "text_reading": "May 26, 1942 Mr. Murray Sheehan Royal Thai Legation 2300 Kalorama Road Washington, D. C. Dear Murray: I am delighted to know that you are coming on for Commencement. We shall all be glad to see you and I think you will find yourself very comfortable in David Swing Hall where we are making a reservation for you. It is too bad that we cannot have at least one boy from Theiland in the graduating class while you are here, particularly since we were unable to secure the Minister as our speaker. Cordially yours, President",
+    "generated_title": "Letter from President to Murray Sheehan, May 26, 1942",
+    "field_confidence": {
+      "title": 90,
+      "creator": 0,
+      "contributors": 70,
+      "correspondents": 90,
+      "publisher": 0,
+      "date": 0,
+      "place": 80,
+      "language": 90,
+      "subjects": 70,
+      "theme": 70,
+      "genre": 80,
+      "description": 80,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 80,
+      "medium": 60,
+      "type": 75,
+      "rights": 50,
+      "repository": 0,
+      "identifier": 85,
+      "call_number": 0,
+      "digital_identifier": 0,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 0,
+      "transcript": 95,
+      "text_reading": 95
+    }
+  },
+  "context": {
+    "filename": "BC-0714_Recto.jpg",
+    "processing_confidence": 59.210526315789465,
+    "model": "gpt-4o"
+  }
+}

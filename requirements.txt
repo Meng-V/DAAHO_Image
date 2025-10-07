@@ -1,0 +1,9 @@
+openai>=1.30.0
+pillow
+pytesseract
+jsonschema
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+flask>=3.0.0

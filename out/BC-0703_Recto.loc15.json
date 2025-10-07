@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": null,
+    "creator": "A. H. Upham",
+    "contributors": [],
+    "correspondents": [],
+    "publisher": null,
+    "date": "undated",
+    "place": "Miami University",
+    "language": "English",
+    "subjects": [
+      "Dancing",
+      "Thailand",
+      "Students"
+    ],
+    "theme": [
+      "Cultural Exchange"
+    ],
+    "genre": [
+      "Foreword"
+    ],
+    "description": "Foreword discussing Thai dancing and cultural exchange at Miami University written by A. H. Upham.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "Text",
+    "type": "Text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": null,
+    "transcript": "FO REWARD\n\nDancing, like music, is an art that has no boundaries of race and language. This little book by a native of Thailand has grown out of a voluntary class in ball-room dancing conducted by him for a typical group of American students. He perfected his art in England. His pupils have never witnessed the subtle posturing of Siamese dancers or heard the temple-bells that still echo in his ears. But they appreciate and profit by the added grace and rhythm and sense of refined beauty he has brought with him from other shores.\n\nSwasdi Nitibhon and the little group of other young men from Thailand who have chosen to live and work for a time among us are very welcome here at Miami University. They have sent our imaginations questing half way around the world. At the same time, with their American nicknames, their interest in our sports and recreations, and their ability to show us up in the classroom, they have made us realize how much all students everywhere have in common. We frankly admit that one of them can effectively teach us to dance our own dances.\n\nA. H. Upham",
+    "text_reading": "Dancing, like music, is an art that has no boundaries of race and language. This little book by a native of Thailand has grown out of a voluntary class in ball-room dancing conducted by him for a typical group of American students. He perfected his art in England. His pupils have never witnessed the subtle posturing of Siamese dancers or heard the temple-bells that still echo in his ears. But they appreciate and profit by the added grace and rhythm and sense of refined beauty he has brought with him from other shores. Swasdi Nitibhon and the little group of other young men from Thailand who have chosen to live and work for a time among us are very welcome here at Miami University. They have sent our imaginations questing half way around the world. At the same time, with their American nicknames, their interest in our sports and recreations, and their ability to show us up in the classroom, they have made us realize how much all students everywhere have in common. We frankly admit that one of them can effectively teach us to dance our own dances. A. H. Upham",
+    "generated_title": "Foreword by A. H. Upham, undated",
+    "field_confidence": {
+      "title": 0,
+      "creator": 95,
+      "contributors": 0,
+      "correspondents": 0,
+      "publisher": 0,
+      "date": 0,
+      "place": 90,
+      "language": 100,
+      "subjects": 90,
+      "theme": 90,
+      "genre": 90,
+      "description": 95,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 95,
+      "type": 95,
+      "rights": 50,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 0,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 0,
+      "transcript": 95,
+      "text_reading": 95,
+      "generated_title": 95
+    }
+  },
+  "context": {
+    "filename": "BC-0703_Recto.jpg",
+    "processing_confidence": 79.66260543580131,
+    "model": "gpt-4o"
+  }
+}

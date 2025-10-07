@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "title": "The Post, December 11, 1937",
+    "creator": null,
+    "contributors": [],
+    "correspondents": [],
+    "publisher": "The Post",
+    "date": "undated",
+    "place": "Cincinnati",
+    "language": "English",
+    "subjects": [
+      "Newspapers",
+      "News articles"
+    ],
+    "theme": [
+      "Current events"
+    ],
+    "genre": [
+      "Newspaper"
+    ],
+    "description": "Front page of The Post newspaper published in Cincinnati on December 11, 1937.",
+    "collection": "The Post Newspaper Collection",
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": "image/jpeg",
+    "medium": "paper",
+    "type": "text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": "BC-0698_Recto",
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": true,
+    "transcript": null,
+    "text_reading": "Tosses His Dime The Post VOL. 114. NO. 141. U. S. WEATHER FORECAST: Fair, slightly warmer tonight. CINCINNATI, SATURDAY, DEC. 11, 1937. Matter Jan, 15, 1881, HAMILTON BUTLER COUNTY NEWS | PAGE 9 | The Post has dispatches of the United Press, greatest world-wide news-gathering | association. Two States Included In New Archdiocese \nKentucky and Tennessee to Form New Province, With See at Louisville; Historic changes in the Archdiocese of Cincinnati. Believed Safe. Rights status not determined",
+    "generated_title": "The Post Newspaper, December 11, 1937",
+    "field_confidence": {
+      "title": 100,
+      "creator": 0,
+      "contributors": 0,
+      "correspondents": 0,
+      "publisher": 80,
+      "date": 0,
+      "place": 70,
+      "language": 70,
+      "subjects": 90,
+      "theme": 90,
+      "genre": 90,
+      "description": 70,
+      "collection": 60,
+      "format": 100,
+      "medium": 70,
+      "type": 100,
+      "rights": 50,
+      "digitized": 100
+    }
+  },
+  "context": {
+    "filename": "BC-0698_Recto.jpg",
+    "processing_confidence": 77.1489153482303,
+    "model": "gpt-4o"
+  }
+}

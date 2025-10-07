@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "title": null,
+    "creator": null,
+    "contributors": null,
+    "correspondents": [
+      "Mr. Murray Sheehan"
+    ],
+    "publisher": null,
+    "date": "undated",
+    "place": "Washington, D.C.",
+    "language": "English",
+    "subjects": [
+      "Commencement exercises",
+      "Diplomacy"
+    ],
+    "theme": [
+      "Commencement speakers",
+      "International relations"
+    ],
+    "genre": [
+      "Letter"
+    ],
+    "description": "Typed letter discussing potential commencement speakers and international relations.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "Typed letter",
+    "type": "Document",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": "BC-0711_Recto",
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": true,
+    "transcript": "November 19, 1941\n\nMr. Murray Sheehan\nRoyal Thai Legation\n2300 Kalorama Road\nWashington, D. C.\n\nDear Murray:\n\nI have just now got around to the problem of finding speakers for our Commencement exercises next June. Naturally I am greatly attracted by your suggestion that there is again a minister from Thai in Washington who would qualify in every way as our speaker on the regular Commencement program. I have only two reservations which are quite obvious: one, that for some reason or other this man also may be recalled before our Commencement date; the other, that international friendships in the Pacific area may crack all to pieces before that time so that there may be no Thailand minister in Washington at all. However, I am willing to take chances on these contingencies. There is a third difficulty in which I know you can help me. That is, my utter inability to pronounce any of these Siamese names correctly in public.\n\nSeriously, I should be glad to have you extend our invitation to the Minister to deliver the Commencement address to the graduates of Miami University on the morning of Monday, June 8, 1942, which is our regular Commencement date. If he will arrange to undertake this responsibility, I shall hope of course that you may find it convenient to escort him out here and enjoy with him the Commencement atmosphere that always characterizes Miami University.\n\nI had hoped for an occasion which would take me to Washington before this time. Unfortunately for me, the annual meeting of the National Association of State Universities was changed from Washington to Chicago because of the difficulty of accommodating the Association in any Washington hotel.\n\nWe greatly miss some of our friends among the Thailand boys who were with us last year. Those who are here at the present time, however, are giving an excellent account of themselves.\n\nWith all good wishes,\n\nVery truly yours,\n\nPresident\n\n[HANDWRITTEN: President]",
+    "text_reading": "November 19, 1941 Mr. Murray Sheehan Royal Thai Legation 2300 Kalorama Road Washington, D. C. Dear Murray: I have just now got around to the problem of finding speakers for our Commencement exercises next June. Naturally I am greatly attracted by your suggestion that there is again a minister from Thai in Washington who would qualify in every way as our speaker on the regular Commencement program. I have only two reservations which are quite obvious: one, that for some reason or other this man also may be recalled before our Commencement date; the other, that international friendships in the Pacific area may crack all to pieces before that time so that there may be no Thailand minister in Washington at all. However, I am willing to take chances on these contingencies. There is a third difficulty in which I know you can help me. That is, my utter inability to pronounce any of these Siamese names correctly in public. Seriously, I should be glad to have you extend our invitation to the Minister to deliver the Commencement address to the graduates of Miami University on the morning of Monday, June 8, 1942, which is our regular Commencement date. If he will arrange to undertake this responsibility, I shall hope of course that you may find it convenient to escort him out here and enjoy with him the Commencement atmosphere that always characterizes Miami University. I had hoped for an occasion which would take me to Washington before this time. Unfortunately for me, the annual meeting of the National Association of State Universities was changed from Washington to Chicago because of the difficulty of accommodating the Association in any Washington hotel. We greatly miss some of our friends among the Thailand boys who were with us last year. Those who are here at the present time, however, are giving an excellent account of themselves. With all good wishes, Very truly yours, President",
+    "generated_title": "Letter to Mr. Murray Sheehan, November 19, 1941",
+    "field_confidence": {
+      "title": 0,
+      "creator": 0,
+      "contributors": 0,
+      "correspondents": 95,
+      "publisher": 0,
+      "date": 90,
+      "place": 85,
+      "language": 100,
+      "subjects": 80,
+      "theme": 85,
+      "genre": 90,
+      "description": 70,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 90,
+      "type": 90,
+      "rights": 60,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 95,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 100,
+      "transcript": 95,
+      "text_reading": 95,
+      "generated_title": 95
+    }
+  },
+  "context": {
+    "filename": "BC-0711_Recto.jpg",
+    "processing_confidence": 67.38544474393531,
+    "model": "gpt-4o"
+  }
+}

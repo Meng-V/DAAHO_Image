@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "title": null,
+    "creator": null,
+    "contributors": [],
+    "correspondents": [],
+    "publisher": null,
+    "date": "undated",
+    "place": null,
+    "language": "en",
+    "subjects": [
+      "itinerary",
+      "travel"
+    ],
+    "theme": [
+      "travel"
+    ],
+    "genre": [
+      "document"
+    ],
+    "description": "Travel itinerary with dates and addresses for stops in Yokohama, Manila, Singapore, Calcutta, Bombay, Cairo, Naples, and Italy.",
+    "collection": null,
+    "series": null,
+    "folder": null,
+    "box": null,
+    "format": null,
+    "medium": "paper",
+    "type": "text",
+    "rights": "Rights status not determined",
+    "repository": null,
+    "identifier": null,
+    "call_number": null,
+    "digital_identifier": null,
+    "reproduction_number": null,
+    "permalink": null,
+    "digital_collection": null,
+    "digital_publisher": null,
+    "digitized": false,
+    "transcript": "Upham Itinerary Address Mailing dates\n\nfrom Oxford, Ohio\n\nYokohama and Japan December 6 - 19 American Express Co. 7 Nihon Odori, Nakaku (P. O. Box 407) Yokohama, Japan November 17 - 24\n\nManila December 27 - January 5 American Express Co. 95 Plaza Moraga (P. O. Box 1463) Manila, P. I. November 24 - December 1\n\nSingapore January 9 - 27 American Express Co. No. 1, Collyer Quay Singapore, Straits Settlements December 1 - 14\n\nCalcutta February 6 - 7 American Express Co. 14-15 Government Place, East (P. O. Box 2331) Calcutta, India December 14 - January 1\n\nBombay February 17 - 18 American Express Co. 82-84 Esplanade Road, Fort (P. O. Box 507) Bombay, India January 1 - 21\n\nCairo February 28 - March 14 American Express Co. Continental Savoy Bldg. (P. O. Box 2160) Cairo, Egypt January 21 - February 28\n\nNaples and Italy March 19 - April 10 American Express Co. 23a Piazza dei Martiri Naples, Italy February 28 - March 15 American Express Co. Via Balbi (Hotel Colombia) Genoa, Italy March 15 - 30",
+    "text_reading": "Upham Itinerary Address Mailing dates from Oxford, Ohio Yokohama and Japan December 6 - 19 American Express Co. 7 Nihon Odori, Nakaku P. O. Box 407 Yokohama, Japan November 17 - 24 Manila December 27 - January 5 American Express Co. 95 Plaza Moraga P. O. Box 1463 Manila, P. I. November 24 - December 1 Singapore January 9 - 27 American Express Co. No. 1, Collyer Quay Singapore, Straits Settlements December 1 - 14 Calcutta February 6 - 7 American Express Co. 14-15 Government Place, East P. O. Box 2331 Calcutta, India December 14 - January 1 Bombay February 17 - 18 American Express Co. 82-84 Esplanade Road, Fort P. O. Box 507 Bombay, India January 1 - 21 Cairo February 28 - March 14 American Express Co. Continental Savoy Bldg. P. O. Box 2160 Cairo, Egypt January 21 - February 28 Naples and Italy March 19 - April 10 American Express Co. 23a Piazza dei Martiri Naples, Italy February 28 - March 15 American Express Co. Via Balbi Hotel Colombia Genoa, Italy March 15 - 30",
+    "generated_title": "Upham Itinerary, undated",
+    "field_confidence": {
+      "title": 0,
+      "creator": 0,
+      "contributors": 0,
+      "correspondents": 0,
+      "publisher": 0,
+      "date": 0,
+      "place": 0,
+      "language": 100,
+      "subjects": 100,
+      "theme": 100,
+      "genre": 100,
+      "description": 100,
+      "collection": 0,
+      "series": 0,
+      "folder": 0,
+      "box": 0,
+      "format": 0,
+      "medium": 100,
+      "type": 100,
+      "rights": 0,
+      "repository": 0,
+      "identifier": 0,
+      "call_number": 0,
+      "digital_identifier": 0,
+      "reproduction_number": 0,
+      "permalink": 0,
+      "digital_collection": 0,
+      "digital_publisher": 0,
+      "digitized": 0,
+      "transcript": 100,
+      "text_reading": 100,
+      "generated_title": 100
+    }
+  },
+  "context": {
+    "filename": "BC-0692_Recto.jpg",
+    "processing_confidence": 74.95029821073558,
+    "model": "gpt-4o"
+  }
+}
